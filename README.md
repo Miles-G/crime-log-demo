@@ -1,0 +1,2 @@
+# crime log demo
+Some data from [the UWPD 60 day crime log](http://police.uw.edu/crimedata/60daylog/), retrieved on 05.07.2018, converted to csv using [tabula](https://tabula.technology/) and manipulated slightly using R.
